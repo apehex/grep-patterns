@@ -1,0 +1,6 @@
+{
+    "flags": "-oEarHn",
+    "patterns": [
+        "AKIA[0-9A-Z]{16}"
+    ]
+}

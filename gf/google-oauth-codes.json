@@ -1,0 +1,6 @@
+{
+    "flags": "-oEarHn",
+    "patterns": [
+        "4/[0-9A-Za-z-_]+"
+    ]
+}
