@@ -1,0 +1,4 @@
+{
+    "flags": "-oriahE",
+    "pattern": "record:\"people\",result:\"[-a-zA-Z\\.\\'\\ ]+\""
+}
