@@ -1,0 +1,6 @@
+{
+    "flags": "-oEarHn",
+    "patterns": [
+        "(access|client|consumer|customer|user)[_-]?(token|key|secret)"
+    ]
+}

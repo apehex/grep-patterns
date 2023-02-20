@@ -1,0 +1,6 @@
+{
+    "flags": "-oEarHn",
+    "patterns": [
+        "-----BEGIN ((DSA|RSA|EC|PGP) )?PRIVATE KEY( BLOCK)?-----"
+    ]
+}

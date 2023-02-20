@@ -1,6 +1,7 @@
 {
     "flags": "-oEarHn",
     "patterns": [
-        "ya29.[0-9A-Za-z-_]+"
+        "ya29.[0-9A-Za-z-_]+",
+        "ya29\\.[0-9A-Za-z\\-_]+"
     ]
 }

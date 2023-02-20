@@ -1,6 +1,6 @@
 {
     "flags": "-oEarHn",
     "patterns": [
-        "[A-Za-z0-9_]{21}--[A-Za-z0-9_]{8}"
+        "sk_live_[0-9a-z]{32}"
     ]
 }
