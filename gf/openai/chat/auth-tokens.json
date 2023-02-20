@@ -1,0 +1,6 @@
+{
+    "flags": "-oEarH",
+    "patterns": [
+        "eyJhbGciOiJkaXIiLCJlbmMiOiJBMjU2R0NNIn0\\.\\.[a-zA-Z0-9_-]{16}\\.[a-zA-Z0-9_-]{2754}\\.[a-zA-Z0-9_-]{22}"
+    ]
+}

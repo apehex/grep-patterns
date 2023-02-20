@@ -1,0 +1,6 @@
+{
+    "flags": "-oEarHn",
+    "patterns": [
+        "sk-[a-zA-Z0-9]{48}"
+    ]
+}
